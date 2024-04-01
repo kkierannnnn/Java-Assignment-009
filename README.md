@@ -16,7 +16,7 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+Factorials grow too fast for primitive data types, resulting in overflow
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -26,7 +26,7 @@ ANSWER Why not? HERE
     * How high can you make it go?
 
 ```text
-ANSWER #4 HERE
+It's correct up to 30, in theory it can go up to the limits of your hardware capabilities. 
 ```
 
 ## Submission
